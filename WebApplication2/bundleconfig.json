@@ -1,0 +1,8 @@
+[
+  {
+    "outputFileName": "ClientApp/src/components/InfoEvent.min.css",
+    "inputFiles": [
+      "ClientApp/src/components/InfoEvent.css"
+    ]
+  }
+]

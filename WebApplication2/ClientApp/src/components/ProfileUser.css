@@ -1,0 +1,22 @@
+﻿.UserPhoto {
+    border: 4px solid mistyrose;
+    border-radius: 50%;
+}
+.UserName {
+    padding-left:10px;
+}
+.userModul {
+    background-color: floralwhite;
+    width: 50%;
+    border-radius: 10px;
+    font-family: inherit;
+}
+.EventTable {
+background-color:floralwhite;
+border-radius:10px;
+}
+.Bread {
+    background-color: mistyrose;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+}

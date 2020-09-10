@@ -1,0 +1,13 @@
+﻿.info {
+    background-color: #b30000 !important;
+    margin-bottom: 1%;
+}
+.mainTable {
+    background-color: floralwhite;
+    border-radius: 15px;
+    /*border:5px groove red;*/
+}
+.InfoOfEvent {
+    background-color: floralwhite;
+    border-radius: 15px;
+}
